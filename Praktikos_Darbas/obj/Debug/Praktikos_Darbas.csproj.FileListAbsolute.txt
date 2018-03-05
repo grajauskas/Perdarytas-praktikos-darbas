@@ -1,0 +1,13 @@
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\bin\Debug\Praktikos_Darbas.exe.config
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\bin\Debug\Praktikos_Darbas.exe
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\bin\Debug\Praktikos_Darbas.pdb
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.csprojResolveAssemblyReference.cache
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.Form1.resources
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.Properties.Resources.resources
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.csproj.GenerateResource.Cache
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.csproj.CoreCompileInputs.cache
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.exe
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.pdb
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.Rezultatas.resources
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.AntPop.resources
+C:\Users\Egidijus\source\repos\Praktikos_Darbas\Praktikos_Darbas\obj\Debug\Praktikos_Darbas.Konfiguracija.resources
